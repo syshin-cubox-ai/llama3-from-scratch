@@ -1,5 +1,4 @@
-sentencepiece
-tiktoken
-torch
 blobfile
 matplotlib
+sentencepiece
+tiktoken
